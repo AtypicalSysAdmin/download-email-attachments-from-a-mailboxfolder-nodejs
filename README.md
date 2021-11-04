@@ -9,7 +9,7 @@ I had to modify according to the error I was getting at node_modules\mailparser\
 
 mime.extension is not a function
 
-I changed it to mime.getextentions and it did work
+I changed it to mime.getExtention(contentType) and it did work
 
 Go to node_modules\download-email-attachments\lib\helpers\parse-imag-account-string.js
 
