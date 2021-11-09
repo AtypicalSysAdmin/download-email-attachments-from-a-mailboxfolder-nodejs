@@ -1,0 +1,15 @@
+{
+  "name": "downloademailattachmentsnode2",
+  "version": "1.0.0",
+  "description": "download email attachments from a folder ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "download-email-attachments": "^1.4.3"
+  }
+}
