@@ -1,9 +1,15 @@
 # download-email-attachments-from-a-mailboxfolder-nodejs
 downloads all email attachments from a specific mailbox folder
 
-npm install download-email-attachments
 
-npm install dotenv
+--just for educational purposes and fun labs, I just needed it to work on my computer
+
+--! do not edit node_module codes for production
+
+
+
+
+
 
 I had to modify according to the error I was getting at node_modules\mailparser\lib\mailparser.js:1407:27
 
